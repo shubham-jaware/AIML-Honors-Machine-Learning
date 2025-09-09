@@ -1,0 +1,17 @@
+text,label
+"I love watching football on weekends! #sports",positive
+"The new iPhone launch is amazing... #AppleEvent",positive
+"Feeling sad about the current world events :(",negative
+"Machine learning is the future of AI.",positive
+"This movie was absolutely fantastic!! :)",positive
+"Not happy with the service. Will not recommend.",negative
+"What a beautiful day to go outside and run.",positive
+"Politics these days are crazy... so many opinions. #news",neutral
+"The concert last night was lit 🔥🔥 #music",positive
+"Anyone tried the new cafe downtown? Coffee was good.",positive
+"I hate getting stuck in traffic every morning.",negative
+"This laptop battery dies too quickly. Very frustrating.",negative
+"The customer support team was really helpful!",positive
+"I'm not sure how I feel about the new update...",neutral
+"Absolutely terrible experience at the restaurant.",negative
+"Best vacation I’ve ever had with my family!",positive
