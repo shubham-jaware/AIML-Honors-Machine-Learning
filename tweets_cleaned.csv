@@ -1,0 +1,11 @@
+text,clean_text,tokens
+I love watching football on weekends! #sports,love watch footbal weekend sport,"['love', 'watch', 'footbal', 'weekend', 'sport']"
+The new iPhone launch is amazing... #AppleEvent,new iphon launch amaz appleev,"['new', 'iphon', 'launch', 'amaz', 'appleev']"
+Feeling sad about the current world events :(,feel sad current world event,"['feel', 'sad', 'current', 'world', 'event']"
+Machine learning is the future of AI.,machin learn futur ai,"['machin', 'learn', 'futur', 'ai']"
+This movie was absolutely fantastic!! :),movi absolut fantast,"['movi', 'absolut', 'fantast']"
+Not happy with the service. Will not recommend.,happi servic recommend,"['happi', 'servic', 'recommend']"
+What a beautiful day to go outside and run.,beauti day go outsid run,"['beauti', 'day', 'go', 'outsid', 'run']"
+Politics these days are crazy... so many opinions. #news,polit day crazi mani opinion news,"['polit', 'day', 'crazi', 'mani', 'opinion', 'news']"
+The concert last night was lit 🔥🔥 #music,concert last night lit music,"['concert', 'last', 'night', 'lit', 'music']"
+Anyone tried the new cafe downtown? Coffee was good.,anyon tri new cafe downtown coffe good,"['anyon', 'tri', 'new', 'cafe', 'downtown', 'coffe', 'good']"
